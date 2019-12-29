@@ -17,7 +17,7 @@ def hopper
      }
          puts programmer_hash[:grace_hopper]
 end
-                     :known_for => "COBOL" 
+                     :known_for => "COBOL", :languages "COBOL", "FORTRAN"
 
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
