@@ -37,7 +37,7 @@ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
-     [:grace_hopper][:languages] ="COBOL", "FORTRAN"
+     programmer_hash[:known_for][:alan_kay]= "Object Orientation", :languages => "Smalltalk", "LISP"
 end
 
 def dennis_ritchies_language
